@@ -1,0 +1,4 @@
+id,text,rating,source
+csv_001,"The application is excellent",5,survey
+csv_002,"Payment keeps failing",1,survey
+csv_003,"Please add dark mode",4,survey
